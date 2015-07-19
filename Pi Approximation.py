@@ -1,6 +1,6 @@
 # Calculating pi to the nth decimal using the Madhava-Leibniz Series
 
-from math import sqrt, fsum
+from math import sqrt
 
 print "This program can approximate pi to up to 10 decimal places."
 decimal_places = int(raw_input("Enter the number of decimal places for pi: "))
