@@ -1,9 +1,6 @@
 # Find factors
 
 factors = []
-even_factors = []
-odd_factors = []
-prime_factors = []
 
 n = int(raw_input(">"))
 
